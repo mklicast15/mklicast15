@@ -1,5 +1,6 @@
 # Hi, I'm Maick Castro 👋
 
+Systems Analysis and Development (ADS) Student
 Focused on software quality, testing, and test automation, with experience in web testing, API testing, E2E testing, and automated test development.
 
 ## Skills
