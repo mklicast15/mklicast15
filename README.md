@@ -19,6 +19,7 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 | **Automação** | Cypress, Playwright |
 | **Linguagens** | TypeScript, JavaScript, Python |
 | **Desenvolvimento Web** | HTML, CSS, React |
+| **Backend** | Node.js, Express, Prisma, PostgreSQL |
 | **Testes de API** | Insomnia |
 | **Controle de Versão** | Git, GitHub |
 | **Gestão de Testes** | Zephyr Scale |
@@ -33,6 +34,10 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
@@ -50,7 +55,7 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 ### Amazônia Circular — Automação E2E
 Projeto de automação de testes end-to-end para validação dos fluxos da aplicação, utilizando Cypress e TypeScript.
 
-### Amazônia Circular
+### Amazônia Circular *(Projeto privado)*
 Aplicação web desenvolvida para a iniciativa Amazônia Circular.
 
 ### Deusa Hub Web
