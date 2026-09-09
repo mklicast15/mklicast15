@@ -76,4 +76,4 @@ Sinta-se à vontade para conectar comigo:
 
 ---
 
-*Sempre aprendendo, evoluindo e buscando novas formas de garantir a qualidade de software.*
+*Sempre buscando aprender e evoluir.*
