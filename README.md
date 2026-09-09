@@ -43,11 +43,7 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 </p>
 
 ### 📊 Estatísticas
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mklicast15&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mklicast15&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%"/>
-</p>
+<p> <img src="https://img.shields.io/github/followers/mklicast15?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>&nbsp; <img src="https://komarev.com/ghpvc/?username=mklicast15&label=Profile%20Views&style=for-the-badge&color=success" alt="Profile Views"/> </p>
 
 ## 🚀 Projetos
 
