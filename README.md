@@ -74,6 +74,3 @@ Sinta-se à vontade para conectar comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/maickcastro10)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mklicast15)
 
----
-
-*Sempre buscando aprender e evoluir.*
