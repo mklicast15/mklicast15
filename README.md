@@ -18,8 +18,7 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 |---|---|
 | **Automação** | Cypress, Playwright |
 | **Linguagens** | TypeScript, JavaScript, Python |
-| **Desenvolvimento Web** | HTML, CSS, React |
-| **Backend** | Node.js, Express, Prisma, PostgreSQL |
+| **Desenvolvimento Web** | HTML, CSS, React, Node.js, Express, Prisma, PostgreSQL |
 | **Testes de API** | Insomnia |
 | **Controle de Versão** | Git, GitHub |
 | **Gestão de Testes** | Zephyr Scale |
@@ -56,7 +55,9 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 Projeto de automação de testes end-to-end para validação dos fluxos da aplicação, utilizando Cypress e TypeScript.
 
 ### Amazônia Circular *(Projeto privado)*
-Aplicação web desenvolvida para a iniciativa Amazônia Circular.
+Aplicação web nascida como projeto acadêmico e que evoluiu para além da sala de aula: dada a relevância como inovação para o Polo Industrial de Manaus (PIM), a decisão foi seguir em frente com o desenvolvimento e colocá-la em produção.
+
+Para viabilizar isso, foi necessário estudar e aplicar backend na prática: **Node.js**, **Express**, **Prisma** e **PostgreSQL**.
 
 ### Deusa Hub Web
 Projeto web voltado à centralização de links de redes sociais, comunidade e streaming.
