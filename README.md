@@ -10,7 +10,7 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 
 `Quality Assurance` `Functional Testing` `Regression Testing` `Web Testing`
 `API Testing` `E2E Testing` `Test Automation` `Bug Tracking` `Test Case Management`
-`Web Development`
+`Web Development` `Backend Development`
 
 ## 🛠️ Tecnologias & Ferramentas
 
