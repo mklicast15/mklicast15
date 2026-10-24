@@ -1,4 +1,4 @@
-# Olá, eu sou o Maick Castro 👋
+# Olá, eu sou o Maick Castro
 
 QA com foco em qualidade de software, testes funcionais e automação de testes. Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
@@ -6,13 +6,13 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 
 ---
 
-## 🧰 Skills
+##  Skills
 
 `Quality Assurance` `Functional Testing` `Regression Testing` `Web Testing`
 `API Testing` `E2E Testing` `Test Automation` `Bug Tracking` `Test Case Management`
 `Web Development` `Backend Development`
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 | Categoria | Ferramentas |
 |---|---|
@@ -25,7 +25,7 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
 | **Gestão de Projetos** | Jira |
 | **Documentação** | Confluence |
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -46,10 +46,10 @@ Experiência com testes web, testes de API, testes E2E e desenvolvimento de test
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>
 </p>
 
-### 📊 Estatísticas
+###  Estatísticas
 <p> <img src="https://img.shields.io/github/followers/mklicast15?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>&nbsp; <img src="https://komarev.com/ghpvc/?username=mklicast15&label=Profile%20Views&style=for-the-badge&color=success" alt="Profile Views"/> </p>
 
-## 🚀 Projetos
+##  Projetos
 
 ### Amazônia Circular — Automação E2E
 Projeto de automação de testes end-to-end para validação dos fluxos da aplicação, utilizando Cypress e TypeScript.
@@ -67,7 +67,7 @@ Atuação com testes funcionais, automação e gestão de casos de teste em prod
 
 ---
 
-## 📫 Contato
+##  Contato
 
 Sinta-se à vontade para conectar comigo:
 
