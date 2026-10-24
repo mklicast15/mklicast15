@@ -1,6 +1,6 @@
 # Olá, eu sou o Maick Castro 👋
 
-QA Engineer com foco em qualidade de software, testes funcionais e automação de testes. Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+QA com foco em qualidade de software, testes funcionais e automação de testes. Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
 Experiência com testes web, testes de API, testes E2E e desenvolvimento de testes automatizados, além de gestão de casos de teste e rastreabilidade de bugs em ambientes ágeis. Também tenho conhecimento em desenvolvimento web (HTML, CSS, JavaScript, React) e em Python.
 
